@@ -4,7 +4,7 @@
 #
 # Insira seu nome ordenado alfabeticamente
 Adriano Rodrigues
-Davi stuart Zilli
+Davi Stuart Zilli
 Marcello Marabita
 Tiago Dolphine
 Rodrigo Fortunato de Lima
