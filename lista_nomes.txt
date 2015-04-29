@@ -3,6 +3,7 @@
 ######################
 #
 # Insira seu nome ordenado alfabeticamente
+Allan Rosa
 Davi stuart Zilli
 Marcello Marabita
 Tiago Dolphine
