@@ -4,12 +4,27 @@
 #
 # Insira seu nome ordenado alfabeticamente
 
+#A
+Adriano Pais Rodrigues
 Allan Rosa
-Davi stuart Zilli
+
+#B
+Batman
+
+#D
+Davi Stuart Zilli
+
+#G
+Guido Bruzadin Neto
+Gustavo Vieira
+
+#M
 Marcello Marabita
+
+#R
+Renato Martins
 Rodrigo Fortunato de Lima
+
+#T
 Tiago Aguiar
 Tiago Dolphine
-
-
-
