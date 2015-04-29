@@ -3,19 +3,14 @@
 ######################
 #
 # Insira seu nome ordenado alfabeticamente
+
 Adriano Pais Rodrigues
-
 Batman
-
 Davi Stuart Zilli
-
 Guido Bruzadin Neto
 Gustavo Vieira
-
 Marcello Marabita
-
 Renato Martins
 Rodrigo Fortunato de Lima
-
 Tiago Aguiar
-Tiago Dolphine:
+Tiago Dolphine
