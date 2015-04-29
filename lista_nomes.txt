@@ -4,7 +4,9 @@
 #
 # Insira seu nome ordenado alfabeticamente
 Adriano Rodrigues
+Batman
 Davi Stuart Zilli
+Gustavo Vieira
 Marcello Marabita
 Renato Martins
 Rodrigo Fortunato de Lima
