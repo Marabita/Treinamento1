@@ -3,8 +3,9 @@
 ######################
 #
 # Insira seu nome ordenado alfabeticamente
-Adriano Pais Rodrigues
-Davi stuart Zilli
+Adriano Rodrigues
+Batman
+Davi Stuart Zilli
 Marcello Marabita
 Rodrigo Fortunato de Lima
 Tiago Aguiar
